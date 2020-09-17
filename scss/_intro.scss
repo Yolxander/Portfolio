@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400|Poppins:300,400,800&display=swap');
 
-
-
-
 .container-intro {
 	width: 100%;
 	height: 100vh;
-	background: #BF1F2C;
+	background: #bf1f2c;
+	
 
 	display: flex;
 	justify-content: flex-start;
@@ -20,7 +18,7 @@
 		justify-content: center;
 		flex-direction: column;
 		margin-left: 50px;
-		margin-right: 80px;
+		
 
 		.title {
 			width: 100%;
@@ -81,8 +79,7 @@
 			margin-top: 10px;
 			justify-content: flex-end;
 			align-items: flex-end;
-			
-			
+
 			.block {
 				width: 0%;
 				height: inherit;
@@ -91,7 +88,6 @@
 				animation: secBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
 				animation-delay: 2s;
 				display: flex;
-				
 			}
 
 			p {
@@ -104,7 +100,6 @@
 				text-transform: uppercase;
 				letter-spacing: 5px;
 				font-size: 40px;
-
 			}
 		}
 	}
@@ -193,8 +188,6 @@
 	}
 }
 
-
-
 @keyframes top {
 	0% {
 		opacity: 0;
@@ -221,20 +214,32 @@
 	}
 }
 
-@media (max-width: 732px) {  
-	.title h1{
+@media (max-width: 732px) {
+	.title h1 {
 		font-size: 40px !important;
 	}
-  }
+}
 
-  @media (max-width: 571px) {  
-	.title h1{
+@media (max-width: 571px) {
+	.title h1 {
 		font-size: 25px !important;
-		span{
+		span {
 			bottom: 25px !important;
 		}
 	}
-	.role p{
+	.role p {
 		font-size: 20px !important;
 	}
-  }
+}
+
+@media (max-width: 399px) {
+	.title h1 {
+		font-size: 15px !important;
+		span {
+			bottom: 15px !important;
+		}
+	}
+	.role p {
+		font-size: 15px !important;
+	}
+}

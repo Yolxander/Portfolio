@@ -1,0 +1,45 @@
+.projects img {
+	width: 100%;
+	border-radius: 10px;
+}
+.pic{
+	width: 40%;
+}
+
+.projects h3 {
+	color: red;
+	font-weight: bold;
+	
+}
+
+.projects{
+	
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	color: white;
+	padding-right: 50px;
+}
+
+.description{
+	width: 40%;
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.description p{
+	margin-top: 20px;
+	width: 150px;
+}
+///////////////////////////
+@media (max-width: 658px) {
+	.description p {
+		font-size: 15px;
+	}
+	.projects{
+		flex-direction: column;
+		align-items: center;
+	}
+}

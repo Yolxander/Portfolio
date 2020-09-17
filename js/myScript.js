@@ -13,9 +13,9 @@ $(document).ready(function () {
 		sectionsColor: ['', '#023373', '#022859', '#021D40', '#D2D5D9'],
 		sectionSelector: '.vertical-scrolling',
 		slideSelector: '.horizontal-scrolling',
-		navigation: true,
+		// navigation: true,
 		slidesNavigation: true,
-		controlArrows: false,
+		controlArrows: true,
 		anchors: [
 			'Home',
 			'Portfolio',
@@ -27,7 +27,7 @@ $(document).ready(function () {
 		showActiveTooltip:true,
 		navigationTooltips:[
 			'',
-			'Portfolio',
+			'',
 			'',
 			'',
 			
@@ -81,3 +81,5 @@ var interval = setInterval(function() {
 position -= 1;
 $(".about-me").css({ "background-position":+ position +"px 0px" })
 }, 35);
+
+
