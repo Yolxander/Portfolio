@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1166a16d-a307-494a-bfa9-1e8a033913bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pnM27ekuCshYTv79AcWUzhh3xN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/Skills" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yoli\Documents\Resume\MyResume\assets\img\Skills" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yoli\Documents\Resume\MyResume\assets\css" />
+      <recent name="C:\Users\yoli\Documents\Resume\MyResume\assets\img\portfolio" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1166a16d-a307-494a-bfa9-1e8a033913bd" name="Default Changelist" comment="" />
+      <created>1615814191009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615814191009</updated>
+      <workItem from="1615814195710" duration="9703000" />
+      <workItem from="1615826463132" duration="32367000" />
+      <workItem from="1615915739985" duration="9509000" />
+      <workItem from="1616009177014" duration="996000" />
+      <workItem from="1616503494572" duration="6745000" />
+      <workItem from="1616622376017" duration="2358000" />
+      <workItem from="1616674616311" duration="8058000" />
+      <workItem from="1616703029866" duration="1786000" />
+      <workItem from="1616707812127" duration="19041000" />
+      <workItem from="1616779829968" duration="1238000" />
+      <workItem from="1616784400153" duration="1230000" />
+      <workItem from="1617494554609" duration="6596000" />
+      <workItem from="1618244496353" duration="384000" />
+      <workItem from="1618244913083" duration="2138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1231" y="44" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1616713741417">
+      <screen x="-1920" y="-224" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="44" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1616713741417" />
+    <state x="-1379" y="-2" width="837" height="818" key="EditFileWatcherDialog" timestamp="1616713935895">
+      <screen x="-1920" y="-224" width="1920" height="1040" />
+    </state>
+    <state x="-1379" y="-2" width="837" height="818" key="EditFileWatcherDialog/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1616713935895" />
+    <state x="-1231" y="-6" key="FileChooserDialogImpl" timestamp="1616713673870">
+      <screen x="-1920" y="-224" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="-6" key="FileChooserDialogImpl/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1616713673870" />
+    <state x="-1568" y="-147" key="SettingsEditor" timestamp="1616713937252">
+      <screen x="-1920" y="-224" width="1920" height="1040" />
+    </state>
+    <state x="-1568" y="-147" key="SettingsEditor/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1616713937252" />
+    <state x="-12" y="-21" width="1236" height="600" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617499033403">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1828" y="-132" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1616711964396" />
+    <state x="-12" y="-21" width="1236" height="600" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1617499033403" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1618245116031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1479" y="-15" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1616784402001" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-224.1920.1040@0.0.1366.728" timestamp="1618245116031" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1617494556338" />
+    <state x="-1388" y="125" key="run.anything.popup" timestamp="1615814838229">
+      <screen x="-1920" y="-224" width="1920" height="1040" />
+    </state>
+    <state x="-1388" y="125" key="run.anything.popup/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1615814838229" />
+    <state x="-1468" y="-129" key="scopes" timestamp="1616713685534">
+      <screen x="-1920" y="-224" width="1920" height="1040" />
+    </state>
+    <state x="-1468" y="-129" key="scopes/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1616713685534" />
+    <state x="-1381" y="-219" width="840" height="1034" key="search.everywhere.popup" timestamp="1615835066782">
+      <screen x="-1920" y="-224" width="1920" height="1040" />
+    </state>
+    <state x="-1381" y="-219" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728/-1920.-224.1920.1040@-1920.-224.1920.1040" timestamp="1615835066782" />
+  </component>
+</project>
